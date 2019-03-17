@@ -1,0 +1,1026 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: editorsel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-14 23:06+0300\n"
+"PO-Revision-Date: 2019-03-14 23:51+0300\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Loco-Version: 2.2.1; wp-4.9.9\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+
+#: author.php:11
+msgid "Yazar Avatarı"
+msgstr "Author Avatar"
+
+#: author.php:16
+msgid "Durum"
+msgstr "Status"
+
+#: author.php:22
+msgid "Profili Düzenle"
+msgstr "Edit Profile"
+
+#: author.php:22 page-giris-kayit.php:160
+msgid "Çıkış"
+msgstr "Quit"
+
+#: author.php:25
+msgid "Beğendiği Yazılar"
+msgstr "Liked Posts"
+
+#: author.php:28 functions.php:973
+msgid "Çayladın:"
+msgstr "TeaDeserved:"
+
+#: author.php:54 functions.php:1000
+msgid "Henüz bişey çaylamadınız."
+msgstr "You did not TeaDeserved yet."
+
+#: author.php:64
+msgid "YAZILAR:"
+msgstr "POSTS:"
+
+#: author.php:71
+msgid "Tıkla & Oku:"
+msgstr "Click & Read:"
+
+#: author.php:77
+msgid "Henüz içerik yok."
+msgstr "No content yet."
+
+#: category-sozluk.php:5 page-add-terim.php:39 page-hazirlik-sayfasi.php:27
+msgid "Terim paylaşma zamanı!"
+msgstr "Time to share the term!"
+
+#: category-sozluk.php:6
+msgid ""
+"Ders çalışırken, kitap okurken, yeni bir dil öğrenirken vs. karşımıza çıkan "
+"terimleri hepimiz biliyoruz. Terimler ekleyip üzerinde tartışabileceğimiz ve "
+"örneklerle zenginleştirebileceğimiz bi alan olsa güzel olurdudan hareketle "
+"Çay Arası Sözlük Platformu (:<br /> Terim paylaşmak için <a href=\"https://"
+"www.cayarasi.com/sozcuk-ekle/\" title=\"Terim ekle\"><b>buraya tıklayınız.</"
+"b></a>"
+msgstr ""
+"While studying, reading, learning a new language, etc. We all know the terms "
+"we encounter. If you want to add terms and we can discuss on the sample and "
+"enrich it with examples, it would be nice to have a TeaBreak Dictionary "
+"Platform (:  <br /> To share the term, <a title=\"Add Term\" href=\"https://"
+"www.cayarasi.com/sozcuk-ekle/\"> <b> click here. </ b> </a>"
+
+#: category-sozluk.php:11
+msgid "Kelime Adı"
+msgstr "Name of Word"
+
+#: category-sozluk.php:12
+msgid "Anlamı"
+msgstr "Mean"
+
+#: category-sozluk.php:13 category-yer-imleri.php:18
+msgid "Ekleyen"
+msgstr "Who Add"
+
+#: category-sozluk.php:14 category-tartisma.php:36 category-yer-imleri.php:15
+#: comments.php:8
+msgid "Yorum"
+msgstr "Comment"
+
+#: category-sozluk.php:15 category-tartisma.php:37 single.php:35
+msgid "Okunma"
+msgstr "Read"
+
+#: category-tartisma.php:27 page-add-tartisma.php:36
+msgid "Tartışma zamanı!"
+msgstr "Discussion Time!"
+
+#: category-tartisma.php:28
+msgid ""
+"Aklımıza takılıpta hararetli tartışmalara sürükleyen sorular ve cevaplarını "
+"bulabileceğimiz Çay Arası Tartışma Platformu (: <br /> Yeni bir tartışma "
+"konusu eklemek için <a href=\"https://cayarasi.com/tartisma-ekle/\" title="
+"\"Soru ekle\"><b>buraya tıklayınız.</b></a>"
+msgstr ""
+"The TeaBreak Discussion Platform where we can find the questions and answers "
+"that lead us to the heated debates in our minds (: <br /> <a href=\"https://"
+"cayarasi.com/tartisma-ekle/\" title=\"Soru ekle\"><b>Click here</b></a> to "
+"add a new discussion topic."
+
+#: category-tartisma.php:33
+msgid "Yazan"
+msgstr "Author"
+
+#: category-tartisma.php:34
+msgid "Tartışma Konusu"
+msgstr "Discussion Topic"
+
+#: category-tartisma.php:35
+msgid "Açıklama"
+msgstr "Description"
+
+#: category-yer-imleri.php:5 page-add-liste.php:87 page-hazirlik-sayfasi.php:34
+msgid "Yer imlerini paylaşma zamanı!"
+msgstr "Time to share bookmarks!"
+
+#: category-yer-imleri.php:6
+msgid ""
+"Çoğu zaman sık kullanılanlara attığımız yer imlerine geri dönüş yapmıyoruz. "
+"Oysaki yer imlerimizi toplu şekilde paylaşabilsek efsane olmaz mıydı? (:<br /"
+"><br /> Yerimi paylaşmak için <a href=\"https://www.cayarasi.com/liste-ekle/"
+"\" title=\"Liste ekle\">buraya tıklayınız. </a>"
+msgstr ""
+"Most of the time, we don't return to bookmarks we bookmark. But if we could "
+"share our bookmarks collectively, wouldn't it be great? (: <br /> <br /> <a "
+"href=\"https://www.cayarasi.com/en/add-list/\" title=\"Add Playlist Bookmark"
+"\"> Click here</a> to share the location. "
+
+#: category-yer-imleri.php:7 page-add-liste.php:89 page-add-liste.php:91
+#: page-add-terim.php:41 page-add-standard.php:97
+msgid "Örnekler"
+msgstr "Examples"
+
+#: category-yer-imleri.php:8
+msgid ""
+"Youtube'den beğendiğiniz bir liste oluşturabilir bunu da arkadaşlarınızla "
+"paylaşabilirsiniz.<br />\n"
+"Veya bir konu/ödev hakkında topladığınız kaynak linkleri yine bu sayede "
+"kolayca paylaşabilirsiniz."
+msgstr ""
+"You can create a list you like from Youtube and share it with your friends. "
+"<br />\n"
+"Or you can easily share the source links you have collected about a topic / "
+"homework."
+
+#: category-yer-imleri.php:16
+msgid "Liste Adı"
+msgstr "List Name"
+
+#: category-yer-imleri.php:17
+msgid "Açıklaması"
+msgstr "Description"
+
+#: comments.php:41
+msgid "Yorumlar kapalı."
+msgstr "Comments are close."
+
+#: comments.php:45
+msgid "Henüz yorum eklenmemiş. Bi yorum atmaya ne dersin?"
+msgstr "No comments yet. How about a comment?"
+
+#: functions.php:13
+msgid "Sidebar Widget Area"
+msgstr "Sidebar Widget Area"
+
+#: functions.php:178 functions.php:181
+msgid "to"
+msgstr "to"
+
+#: functions.php:186
+msgid "link"
+msgstr "link"
+
+#: functions.php:300
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid " %s önce"
+msgstr "%s ago"
+
+#: functions.php:335 functions.php:373 functions.php:407
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s önce"
+msgstr "%s ago"
+
+#: header.php:38
+msgid "<strong>Çay </strong>Arası"
+msgstr "<strong>Çay </strong>Arası"
+
+#: header.php:40
+msgid "Rasgele"
+msgstr "Random"
+
+#: header.php:41
+msgid "Son Yorumlar"
+msgstr "Last Comments"
+
+#. Name of the template
+#: header.php:42
+msgid "En Çok Okunanlar"
+msgstr "Most Read"
+
+#: header.php:45 home-banner.php:38
+msgid "İçerik Ekle"
+msgstr "Add Post"
+
+#: header.php:46
+msgid "Profili Görüntüle"
+msgstr "Show Profile"
+
+#: header.php:48
+msgid "Giriş Yap & Kayıt Ol & Şifremi unuttum"
+msgstr "Log in & Register & Forgot Password"
+
+#: home-banner.php:6
+msgid "Selam, Çay Arası'na <br />hoşgeldiniz"
+msgstr "Hello, welcome to </br>CayArasi"
+
+#: home-banner.php:7 home-banner.php:34
+msgid "Bi Dolu Muhabbet Ortamı!"
+msgstr "Efficient and Pleasant Tea-Conversation Environment!"
+
+#: home-banner.php:9 home-banner.php:36
+msgid ""
+"Esasında bi çay masasında ettiğimiz muhabbeti taşıdığımız mekan. Notlarımıza "
+"kaydettiğimiz makaleleri, bazen gerçekleri (tarih, gündem) bazen de "
+"denemeleri, şiirleri, kurgu yazılarımızı paylaşıp tartıştığımız platform."
+msgstr ""
+"Actually, we're having a conversation at a tea table. The articles that we "
+"have recorded in our notes, sometimes the facts (history, agenda) and "
+"sometimes the essays, poems, fiction writings we share and discuss the "
+"platform."
+
+#: home-banner.php:11
+msgid "Sizde kayıt olun!"
+msgstr "Sign up for you!"
+
+#: home-banner.php:15 home-banner.php:46
+msgid "Çay Arası - Bi Dolu Muhabbet"
+msgstr "TeaBreak - Efficient Tea-Conversation Articles"
+
+#: home-banner.php:33
+msgid "Çay Arası'na <br /> hoşgeldin"
+msgstr "welcome to </br>CayArasi"
+
+#: home-banner.php:39
+msgid "Profili Gör"
+msgstr "Show Profile"
+
+#: home-banner.php:39 page-giris-kayit.php:158
+msgid "Profili gör"
+msgstr "Show profile"
+
+#: home-banner.php:40
+msgid "Çıkış Yap"
+msgstr "Quit"
+
+#: home-banner.php:40 page-giris-kayit.php:160
+msgid "Çıkış Yap!"
+msgstr "Quit"
+
+#: index.php:10
+msgid "Yazılar"
+msgstr "Articles"
+
+#: index.php:11 sidebar.php:51
+msgid "Tartışma"
+msgstr "Discussion"
+
+#: index.php:12
+msgid "Gelişme Süreci"
+msgstr "Development"
+
+#: index.php:40
+msgid "Devamı"
+msgstr "More"
+
+#: index.php:45
+msgid "Yazı bulunamadı"
+msgstr "No posts found"
+
+#: index.php:55
+msgid "Yeni bir tartışma konusu eklemek için"
+msgstr "For adding a new Discussion Topic"
+
+#: index.php:55 page-giris-kayit.php:165
+msgid "buraya tıklayınız."
+msgstr "click here"
+
+#: index.php:57
+msgid "Tartışmalara katılmak için"
+msgstr "To join the Discussions"
+
+#: index.php:57
+msgid "giriş yapınız."
+msgstr "you need log in."
+
+#: index.php:69
+msgid ""
+"Çay Arası halen gelişme aşamasında.</h3> <br/> <p>Gelişme Oranı... <br/>"
+msgstr ""
+"CayArasi is still under development. </h3> <br/> <p> Development Rate... <br/"
+">"
+
+#: index.php:76
+msgid ""
+"Bu süreçte gözünüze ilişen hataları <a href=\"mailto:iletisim@cayarasi.com\" "
+"title=\"Çay Arası Eposta\">iletisim@cayarasi.com</a> adresine mail atarak ya "
+"da yorum yaparak bildirebilirsiniz. Şimdi neler eklendi/eklenecek gelin "
+"onlara bakalım."
+msgstr ""
+"In this process, you can report any errors related to your eyes by emailing "
+"or commenting on <a href=\"mailto:iletisim@cayarasi.com\" title=\"CayArasi "
+"Email\"> iletisim@cayarasi.com </a> Now let's look at what has been added / "
+"added."
+
+#. Name of the template
+msgid "List ADD Page"
+msgstr "Page List ADD"
+
+#: page-add-liste.php:84
+msgid "Liste Ekle"
+msgstr "Add List"
+
+#: page-add-liste.php:88
+msgid ""
+"Çoğu zaman sık kullanılanlara attığımız yer imlerine geri dönüş yapmıyoruz. "
+"Oysaki yer imlerimizi toplu şekilde paylaşabilsek efsane olmaz mıydı?"
+msgstr ""
+"Most of the time, we don't return bookmarks to favorites. But if we could "
+"share our bookmarks collectively, wouldn't it be great? (:"
+
+#: page-add-liste.php:90
+msgid ""
+"Youtube'den beğendiğiniz bir liste oluşturabilir bunu da arkadaşlarınızla "
+"paylaşabilirsiniz. <br />Veya bir konu/ödev hakkında topladığınız kaynak "
+"linkleri bu sayede yine kolayca paylaşabilirsiniz."
+msgstr ""
+"You can create a list you like from Youtube and share it with your friends. "
+"<br /> You can also easily share the source links you have collected about a "
+"topic / homework."
+
+#: page-add-liste.php:92
+msgid "Son paylaşılan #5 liste."
+msgstr "Last Shared 5 Posts."
+
+#: page-add-liste.php:107
+msgid "Liste için bir başlık belirleyin"
+msgstr "A Title For The List"
+
+#: page-add-liste.php:110
+msgid "Liste Açıklaması"
+msgstr "List Description"
+
+#: page-add-liste.php:113
+msgid "1. Yer İmi Adı"
+msgstr "1. Bookmark Name"
+
+#: page-add-liste.php:114
+msgid "1. Yer İmi Linki"
+msgstr "1. Bookmark Link"
+
+#: page-add-liste.php:117
+msgid "2. Yer İmi Adı"
+msgstr "2. Bookmark Name"
+
+#: page-add-liste.php:118
+msgid "2. Yer İmi Linki"
+msgstr "2. Bookmark Link"
+
+#: page-add-liste.php:121
+msgid "3. Yer İmi Adı"
+msgstr "3. Bookmark Name"
+
+#: page-add-liste.php:122
+msgid "3. Yer İmi Linki"
+msgstr "3. Bookmark Link"
+
+#: page-add-liste.php:125
+msgid "4. Yer İmi Adı"
+msgstr "4. Bookmark Name"
+
+#: page-add-liste.php:126
+msgid "4. Yer İmi Linki"
+msgstr "4. Bookmark Link"
+
+#: page-add-liste.php:129
+msgid "5. Yer İmi Adı"
+msgstr "5. Bookmark Name"
+
+#: page-add-liste.php:130
+msgid "5. Yer İmi Linki"
+msgstr "5. Bookmark Link"
+
+#: page-add-liste.php:133
+msgid "6. Yer İmi Adı"
+msgstr "6. Bookmark Name"
+
+#: page-add-liste.php:134
+msgid "6. Yer İmi Linki"
+msgstr "6. Bookmark Link"
+
+#: page-add-liste.php:137
+msgid "7. Yer İmi Adı"
+msgstr "7. Bookmark Name"
+
+#: page-add-liste.php:138
+msgid "7. Yer İmi Linki"
+msgstr "7. Bookmark Link"
+
+#: page-add-liste.php:141
+msgid "8. Yer İmi Adı"
+msgstr "8. Bookmark Name"
+
+#: page-add-liste.php:142
+msgid "8. Yer İmi Linkie"
+msgstr "8. Bookmark Link"
+
+#: page-add-liste.php:145
+msgid "9. Yer İmi Adı"
+msgstr "9. Bookmark Name"
+
+#: page-add-liste.php:146
+msgid "9. Yer İmi Linki"
+msgstr "9. Bookmark Link"
+
+#: page-add-liste.php:149
+msgid "10. Yer İmi Adı"
+msgstr "10. Bookmark Name"
+
+#: page-add-liste.php:150
+msgid "10. Yer İmi Linki"
+msgstr "10. Bookmark Link"
+
+#: page-add-liste.php:153
+msgid "Liste Etiketleri (Virgülle ayırınız)"
+msgstr "Tags of List (with comma)"
+
+#: page-add-liste.php:162
+msgid "Listeyi gönder"
+msgstr "Send List"
+
+#: page-add-liste.php:163 page-add-standard.php:170
+msgid "Sıfırla"
+msgstr "Reset"
+
+#: page-add-liste.php:170 page-add-tartisma.php:71 page-add-terim.php:78
+#: page-add-standard.php:177
+msgid "Giriş Yapınız"
+msgstr "Log in"
+
+#. Name of the template
+msgid "Tartisma ADD Page"
+msgstr "Page Discussion ADD"
+
+#: page-add-tartisma.php:33
+msgid "Tartışma Konusu Ekle"
+msgstr "Add Discussion Topic"
+
+#: page-add-tartisma.php:37
+msgid ""
+"Aklımıza takılıpta hararetli tartışmalara sürükleyen sorular ve cevaplarını "
+"bulabileceğimiz Çay Arası Tartışma Platformu (:"
+msgstr ""
+"The CayArasi Discussion Platform where we can find the questions and answers "
+"that lead us to the heated debates in our minds (:"
+
+#: page-add-tartisma.php:38
+msgid "Son sorulanlarda #5 "
+msgstr "Last Asked #5"
+
+#: page-add-tartisma.php:39
+msgid "Son paylaşılan 5 soru."
+msgstr "Last Shared #5"
+
+#. Name of the template
+msgid "Sozcuk ADD Page"
+msgstr "Page Term ADD"
+
+#: page-add-terim.php:36
+msgid "Terim Ekle"
+msgstr "Add Term"
+
+#: page-add-terim.php:40
+msgid ""
+"Ders çalışırken, kitap okurken, yeni bir dil öğrenirken vs. karşımıza çıkan "
+"terimleri hepimiz biliyoruz. Terimler ekleyip üzerinde tartışabileceğimiz ve "
+"örneklerle zenginleştirebileceğimiz bi alan olsa güzel olurdudan hareketle "
+"Çay Arası Sözlük Platformu (:"
+msgstr ""
+"While studying, reading, learning a new language, etc. We all know the terms "
+"we encounter. If you want to add terms and we can discuss on the sample and "
+"enrich it with examples, it would be nice to have a CayArasi Dictionary "
+"Platform (:"
+
+#: page-add-terim.php:42
+msgid "Son paylaşılan 5 kelime."
+msgstr "Last Shared #5 Word"
+
+#: page-add-terim.php:57
+msgid "Kelimenin adını buraya yazınız"
+msgstr "Write the name of the word here"
+
+#: page-add-terim.php:60
+msgid "Kelime Anlamını/Açıklamasını bu alana yazınız"
+msgstr "Write the Word Meaning or Description in this field"
+
+#: page-add-terim.php:64
+msgid "Geçtiği Yer/Bilim Dalı"
+msgstr "Place / Branch"
+
+#. Name of the template
+msgid "Profil Düzenle"
+msgstr "Edit Profile"
+
+#. Name of the template
+msgid "Kayıt ve Giriş Sayfası"
+msgstr "Page Register and Login"
+
+#: page-giris-kayit.php:22
+msgid "Kayıt Ol & Giriş & Şifremi Unuttum"
+msgstr "Log in & Register & Forgot Pass"
+
+#: page-giris-kayit.php:37 page-giris-kayit.php:42
+msgid "Başarılı!"
+msgstr "Successful!"
+
+#: page-giris-kayit.php:38
+msgid "Şifre için epostanızı kontrol edin ve tekrar giriş yapın."
+msgstr "Check your email for the password and log in again."
+
+#: page-giris-kayit.php:43
+msgid "Şifreyi sıfırlamak için epostanızı kontrol edin."
+msgstr "Check your email to reset the password."
+
+#: page-giris-kayit.php:47
+msgid "Hesabın var mı?"
+msgstr "Have you account already?"
+
+#: page-giris-kayit.php:48
+msgid ""
+"Giriş yap veya kayıt ol! Çay Arası bi demlikte sen kap &amp; <em>ücretsiz!</"
+"em>"
+msgstr "Login or register! CayArasi is my cup of tea &amp; <em> free! </ em>"
+
+#: page-giris-kayit.php:54
+msgid "Böyle bir kullanıcı adı yok, Lütfen tekrar deneyiniz."
+msgstr "No such username, please try again."
+
+#: page-giris-kayit.php:57
+msgid "Kullanıcı adı veya şifre hatalı. Lütfen kontrol ediniz."
+msgstr "Username or password is wrong. Please check."
+
+#: page-giris-kayit.php:64
+msgid "Giriş\t"
+msgstr "Login"
+
+#: page-giris-kayit.php:65
+msgid "Kaydol"
+msgstr "Register"
+
+#: page-giris-kayit.php:66
+msgid "Şifremi Unuttum"
+msgstr "Forgot Password"
+
+#: page-giris-kayit.php:75
+msgid "Kullanıcı adı: "
+msgstr "Username:"
+
+#: page-giris-kayit.php:81
+msgid "Şifre: "
+msgstr "Password:"
+
+#: page-giris-kayit.php:88
+msgid "Giriş Yap"
+msgstr "Login"
+
+#: page-giris-kayit.php:95
+msgid "Çay Arasına Kaydol!"
+msgstr "Register to CayArasi"
+
+#: page-giris-kayit.php:96
+msgid "Sende çay masasındaki muhabbete katıl (:"
+msgstr "Join the conversation on the tea table (:"
+
+#: page-giris-kayit.php:100
+msgid "Kullanıcı Adı"
+msgstr "Username"
+
+#: page-giris-kayit.php:106
+msgid "Şifre"
+msgstr "Password"
+
+#: page-giris-kayit.php:112
+msgid "Email"
+msgstr "Email"
+
+#: page-giris-kayit.php:118
+msgid "Spam Kontrol"
+msgstr "Spam Control"
+
+#: page-giris-kayit.php:120
+msgid "Üye olurken siliniz"
+msgstr "Please delete while you register"
+
+#: page-giris-kayit.php:125
+msgid "Kayıt Ol"
+msgstr "Register"
+
+#: page-giris-kayit.php:134
+msgid "Bişey mi kaybettin?"
+msgstr "You lost something?"
+
+#: page-giris-kayit.php:135
+msgid "Misal şifre olur sıfırlamak için eposta adresinizi kullabilirsiniz."
+msgstr "For example password ^^. You can use your email to recovery account."
+
+#: page-giris-kayit.php:138
+msgid "E-posta Adresi:"
+msgstr "E-mail Adress:"
+
+#: page-giris-kayit.php:145
+msgid "Şifremi Sıfırla"
+msgstr "Reset Password"
+
+#: page-giris-kayit.php:156
+msgid "Profil Ayarları"
+msgstr "Profile Settings"
+
+#: page-giris-kayit.php:156
+msgid "Hoşgeldin,"
+msgstr "Welcome,"
+
+#: page-giris-kayit.php:159
+msgid "Profili düzenle"
+msgstr "Edit profile"
+
+#: page-giris-kayit.php:164
+msgid ""
+"Hemen üstten profilinizin nasıl göründüğüne bakabilirsiniz. Profili düzenle "
+"kısmından düzenleyebilir, yeni profil fotoğrafı ekleyebilirsiniz."
+msgstr ""
+"You can see how your profile looks right from the top. You can edit it in "
+"Edit profile and add a new profile photo."
+
+#: page-giris-kayit.php:165
+msgid "ÇayArası Whatsapp yazarlar grubumuza katılmak için"
+msgstr "To join the CayArasi Whatsapp Group"
+
+#: page-giris-kayit.php:165
+msgid "Çay Arası whatsapp grubumuz"
+msgstr "- our CayArasi Whatsapp Group -"
+
+#: page-giris-kayit.php:167
+msgid "Yazarlar Listesi (:"
+msgstr "List of Authors (:"
+
+#: page-giris-kayit.php:168
+msgid "Sende bu listede yer almak istersen, sadece bir yazı ekle :)"
+msgstr ""
+"If you want to appear on this list, just add one post, that's enough, see "
+"the magic :)"
+
+#: page-giris-kayit.php:187
+msgid "<p>Sitenizde listelenecek üye bulunamadı</p>"
+msgstr "<p>No members to list on your site</p>"
+
+#. Name of the template
+msgid "En Son Yorumlar"
+msgstr "Last Comments"
+
+#: page.php:22 single.php:53 page-hazirlik-sayfasi.php:54
+msgid "Sayfa bulunamadı."
+msgstr "No page found."
+
+#: sidebar.php:7 sidebar.php:18 sidebar.php:79 sidebar.php:80
+msgid "https://cayarasi.com/"
+msgstr "https://cayarasi.com/"
+
+#: sidebar.php:8
+msgid "Arama"
+msgstr "Search"
+
+#: sidebar.php:18
+msgid "Anasayfa"
+msgstr "Home"
+
+#: sidebar.php:19
+msgid "https://cayarasi.com/tarih"
+msgstr "https://cayarasi.com/en/history"
+
+#: sidebar.php:19
+msgid "Tarih"
+msgstr "History"
+
+#: sidebar.php:21
+msgid "Edebiyat"
+msgstr "Literature"
+
+#: sidebar.php:23
+msgid "https://cayarasi.com/edebiyat/hikaye/"
+msgstr "https://cayarasi.com/en/literature/essay/"
+
+#: sidebar.php:23
+msgid "Deneme & Hikaye"
+msgstr "Essay"
+
+#: sidebar.php:24
+msgid "https://cayarasi.com/edebiyat/siir"
+msgstr "https://cayarasi.com/en/literature/poetry"
+
+#: sidebar.php:24
+msgid "Şiir"
+msgstr "Poetry"
+
+#: sidebar.php:25
+msgid "https://cayarasi.com/edebiyat/kurgu"
+msgstr "https://cayarasi.com/en/literature/fiction"
+
+#: sidebar.php:25
+msgid "Kurgu"
+msgstr "Fiction"
+
+#: sidebar.php:26
+msgid "https://cayarasi.com/edebiyat/elestiri"
+msgstr "https://cayarasi.com/en/literature/critique"
+
+#: sidebar.php:26
+msgid "Eleştiri"
+msgstr "Critique"
+
+#: sidebar.php:30
+msgid "Eğitim"
+msgstr "Education"
+
+#: sidebar.php:32
+msgid "https://cayarasi.com/egitim/ders-notlari/"
+msgstr "https://cayarasi.com/en/education/lecture-notes"
+
+#: sidebar.php:32
+msgid "Ders Notları"
+msgstr "Lecture Notes"
+
+#: sidebar.php:33
+msgid "https://cayarasi.com/egitim/yazilim"
+msgstr "https://cayarasi.com/en/education/developer"
+
+#: sidebar.php:33
+msgid "Yazılım"
+msgstr "Developer"
+
+#: sidebar.php:34
+msgid "https://cayarasi.com/egitim/yabanci-dil"
+msgstr "https://cayarasi.com/en/education/english"
+
+#: sidebar.php:34
+msgid "Yabancı Dil"
+msgstr "English"
+
+#: sidebar.php:35
+msgid "Tiyatro (Yakında)"
+msgstr "Theater (Soon)"
+
+#: sidebar.php:36
+msgid "Psikoloji (Yakında)"
+msgstr "Psychology (Soon)"
+
+#: sidebar.php:37
+msgid "Felsefe  (Yakında)"
+msgstr "Philosophy (Soon)"
+
+#: sidebar.php:41
+msgid "Kültür"
+msgstr "Culture"
+
+#: sidebar.php:43
+msgid "https://cayarasi.com/kultur/muzik/"
+msgstr "https://cayarasi.com/en/music/"
+
+#: sidebar.php:43
+msgid "Müzik"
+msgstr "Music"
+
+#: sidebar.php:44
+msgid "https://cayarasi.com/kultur/sinema-dizi"
+msgstr ""
+
+#: sidebar.php:44
+msgid "Sinema & Dizi"
+msgstr ""
+
+#: sidebar.php:45
+msgid "https://cayarasi.com/kultur/seyahat"
+msgstr ""
+
+#: sidebar.php:45
+msgid "Seyahat"
+msgstr ""
+
+#: sidebar.php:49
+msgid "https://cayarasi.com/sozluk/"
+msgstr ""
+
+#: sidebar.php:49
+msgid "Terim Sözlüğü"
+msgstr ""
+
+#: sidebar.php:50
+msgid "https://cayarasi.com/yer-imleri/"
+msgstr ""
+
+#: sidebar.php:50
+msgid "Oynatma Listeleri"
+msgstr ""
+
+#: sidebar.php:51
+msgid "https://cayarasi.com/tartisma/"
+msgstr ""
+
+#: sidebar.php:60
+msgid "Haberleşelim"
+msgstr ""
+
+#: sidebar.php:62
+msgid ""
+"Aklınıza takılan bi kısım olduğunda bize ulaşmak için sosyal ağları ve "
+"emaili kullanabilirsiniz. <br /><b>Üye olabilirsiniz</b> fakat yazar olmak "
+"için öncelikle editör onayı gereklidir."
+msgstr ""
+
+#: sidebar.php:77
+msgid "Çay Arası"
+msgstr ""
+
+#: sidebar.php:77
+msgid "Tüm Hakları Saklıdır."
+msgstr ""
+
+#: sidebar.php:78
+msgid "Sayfa bozuk mu gözüküyo?"
+msgstr ""
+
+#: sidebar.php:79
+msgid "Gizlilik"
+msgstr ""
+
+#: sidebar.php:80
+msgid "Kurallar"
+msgstr ""
+
+#: sidebar.php:81
+msgid "https://cayarasi.com/sikayetler-sorular-istekler/"
+msgstr ""
+
+#: sidebar.php:81
+msgid "Şikayetler, Sorular ve İstekler"
+msgstr ""
+
+#: single.php:34
+msgid "Etiketler"
+msgstr ""
+
+#: single.php:36
+msgid "Paylaş"
+msgstr ""
+
+#: single.php:37
+msgid "Face"
+msgstr ""
+
+#: single.php:38
+msgid "Tweetle"
+msgstr ""
+
+#: single.php:39
+msgid "Pinle"
+msgstr ""
+
+#: single.php:40
+msgid "Whatsapp"
+msgstr ""
+
+#: single.php:42
+msgid "Yazar Hakkında"
+msgstr ""
+
+#: single.php:46
+msgid "Gönderiyi beğendin mi? Çayla!"
+msgstr ""
+
+#: 404.php:5
+msgid "Al işte sayfayı bozdun!"
+msgstr ""
+
+#: 404.php:7
+msgid ""
+"Hata 404: Sayfa Bulunamadı!<br />Hemen paniğe kapılmayın, menüdeki arama "
+"motorundan aklınıza takılanı bulabilirsiniz. Veya yazı hangi üyeye kayıtlı "
+"ise onun profiline giderek yazıları keşfedebilirsiniz. </p>\n"
+"\t\t<p>Aklıma gelmişken hani bizim temamız çayken aslında çaydanlık devrildi "
+"gif i de fena gitmez buraya aslında :D Yanlış bi linke ya da silinen bir "
+"içeriğe geldin ve hala okuyorsun. O zaman devam dans çay nihahah"
+msgstr ""
+
+#: 404.php:10
+msgid "Al iştee sayfayı bozdun"
+msgstr ""
+
+#: 404.php:14
+msgid "Son Yazılar:"
+msgstr ""
+
+#: 404.php:18
+msgid "Aylara göre:"
+msgstr ""
+
+#. Name of the template
+msgid "Standard ADD Page"
+msgstr ""
+
+#: page-add-standard.php:92
+msgid "Hızlı Yazı Ekle"
+msgstr ""
+
+#: page-add-standard.php:95
+msgid "Daha çok yazma zamanı!"
+msgstr ""
+
+#: page-add-standard.php:96
+msgid ""
+"Gelişmiş editöre oranla işinizi daha hızlı halletmenizi sağlayacak türden. "
+"Yazmakla anlat kendini ;)"
+msgstr ""
+
+#: page-add-standard.php:98
+msgid "Son paylaşılan 5 yazı."
+msgstr ""
+
+#: page-add-standard.php:114
+msgid "Yazı Başlığı"
+msgstr ""
+
+#: page-add-standard.php:125
+msgid "Yazı İçeriği"
+msgstr ""
+
+#: page-add-standard.php:133
+msgid "Yazı Etiketleri (Virgülle ayırınız)"
+msgstr ""
+
+#: page-add-standard.php:147
+msgid "Kategori"
+msgstr ""
+
+#: page-add-standard.php:156
+msgid "Öne çıkan görsel"
+msgstr ""
+
+#: page-add-standard.php:168
+msgid "Yazımı gönder"
+msgstr ""
+
+#. Name of the template
+msgid "Hazırlık Sayfası"
+msgstr ""
+
+#: page-hazirlik-sayfasi.php:18
+msgid "Hızlı Yazı Ekleme Aracı"
+msgstr ""
+
+#: page-hazirlik-sayfasi.php:20
+msgid ""
+"<p>Görsel araçlarla zengin yazı oluşturma aracı</p>\n"
+"                <p>Deneme yazıları, şiirler, makaleler, eleştiriler, "
+"notlar... </p>\n"
+"                <p><a title=\"\" href=\"//cayarasi.com/hizli-yazi-ekle/\"> "
+"Buraya tıklayarak </a> yazınızı hemen yayınlayabilirsiniz. </p>"
+msgstr ""
+
+#: page-hazirlik-sayfasi.php:29
+msgid ""
+"<p>Ders çalışırken, kitap okurken, yeni bir dil öğrenirken vs. karşımıza "
+"çıkan terimleri hepimiz biliyoruz. Terimler ekleyip üzerinde "
+"tartışabileceğimiz ve örneklerle zenginleştirebileceğimiz bi alan olsa güzel "
+"olurdudan hareketle Çay Arası Sözlük Platformu (: </p>\n"
+"                <p>Terim paylaşmak için <a title=\"Terim ekle\" href=\"//www."
+"cayarasi.com/sozcuk-ekle/\"><b>buraya tıklayınız.</b></a></p>"
+msgstr ""
+
+#: page-hazirlik-sayfasi.php:36
+msgid ""
+"<p>Çoğu zaman sık kullanılanlara attığımız yer imlerine geri dönüş "
+"yapmıyoruz. Oysaki yer imlerimizi toplu şekilde paylaşabilsek efsane olmaz "
+"mıydı? (:</p>\n"
+"                <p>Yerimi paylaşmak için <a title=\"Liste ekle\" href=\"//"
+"www.cayarasi.com/liste-ekle/\">buraya tıklayınız.</a></p>"
+msgstr ""
+
+#. Name of the theme
+#. Description of the theme
+msgid "editorsel"
+msgstr ""
+
+#. URI of the theme
+msgid "http://hakkicengiz.com/editorsel"
+msgstr ""
+
+#. Author of the theme
+msgid "Hakki Cengiz"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://hakkicengiz.com/"
+msgstr ""
